@@ -925,38 +925,9 @@
             </div>
 
             <div class="gallery-grid">
-                
                 <figure class="gallery-card">
-                    <img src="download5.jfif" alt="Front view of ABS Global School Trikaripur" />
+                    <img src="abs-front-view.jpg" alt="Front view of ABS Global School Trikaripur" />
                     <figcaption>Front view of ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="download6.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>Side view of ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="download7.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>Nallapadam activities of ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="download8.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>Chandragiri sahodaya winners of ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="download9.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>Robotics activities of ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="images3.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>Sports certificate distribution of ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="images4.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>Sports day with james.f. kenny ABS Global School, Trikaripur.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="images5.jfif" alt="Front view of ABS Global School Trikaripur" />
-                    <figcaption>English langauge activity of ABS Global School, Trikaripur.</figcaption>
                 </figure>
                 <figure class="gallery-card">
                     <img src="download3.jfif" alt="Digital classroom at ABS Global School" />
@@ -974,17 +945,9 @@
                     <img src="download2.jfif" alt="Science lab at ABS Global School" />
                     <figcaption>Hands-on STEM and science labs for practical learning.</figcaption>
                 </figure>
-                 <figure class="gallery-card">
-                    <img src="images6.jfif" alt="School event at ABS Global School" />
-                    <figcaption>Digital fest winners.</figcaption>
-                </figure>
                 <figure class="gallery-card">
-                    <img src="images8.jfif" alt="School event at ABS Global School" />
-                    <figcaption>Kids football team.</figcaption>
-                </figure>
-                <figure class="gallery-card">
-                    <img src="images7.jfif" alt="School event at ABS Global School" />
-                    <figcaption>Madrassa inaguration.</figcaption>
+                    <img src="" alt="School event at ABS Global School" />
+                    <figcaption>English speaking skills.</figcaption>
                 </figure>
             </div>
 
